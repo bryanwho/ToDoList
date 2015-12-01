@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">To Do List</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_addTask">Add Task</string>
+    <string name="notification_message">This is a basic notification message</string>
+    <string name="notification_title">Test Title</string>
+</resources>
